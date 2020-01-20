@@ -25,6 +25,7 @@ The libraries required for this project are:
 * Numpy
 * Panda
 * Pytorch
+* Sagemaker
 
 ## Sources
 
