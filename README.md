@@ -26,6 +26,7 @@ The libraries required for this project are:
 * Panda
 * Pytorch
 * Sagemaker
+* Boto3
 
 ## Sources
 
