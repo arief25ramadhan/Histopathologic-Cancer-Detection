@@ -36,7 +36,7 @@ Informations and links in this README.md file is heavily based on this webpage f
 
 https://www.kaggle.com/c/histopathologic-cancer-detection/
 
-The project's codes are built and modified from the Udacity Plagiarism Detector's initial code, as provided in this repository: 
+The project's codes are built and modified from Greg Surma's repository: 
 
-https://github.com/udacity/ML_SageMaker_Studies
+https://github.com/gsurma/histopathologic_cancer_detector
  
