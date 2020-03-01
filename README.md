@@ -39,4 +39,6 @@ https://www.kaggle.com/c/histopathologic-cancer-detection/
 The project's codes are built and modified from Greg Surma's repository: 
 
 https://github.com/gsurma/histopathologic_cancer_detector
+
+The Model v2 is heavily based on by Seth Adam's Video
  
