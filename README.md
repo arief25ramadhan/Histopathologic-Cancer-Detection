@@ -40,5 +40,7 @@ The project's codes are built and modified from Greg Surma's repository:
 
 https://github.com/gsurma/histopathologic_cancer_detector
 
-The Model v2 is heavily based on by Seth Adam's Video
+Some of the code in model_v2.ipynb is heavily based on Seth Adam's Sound Source Localization repository:
+
+https://github.com/seth814/Audio-Classification
  
