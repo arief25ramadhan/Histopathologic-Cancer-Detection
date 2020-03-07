@@ -30,6 +30,14 @@ The libraries required for this project are:
 * Sagemaker
 * Boto3
 
+## Files
+
+The description of each file is:
+
+* model.ipynb: train the VGG16 model
+* cfg.py: configure pickle and model saving
+
+
 ## Sources
 
 Informations and links in this README.md file is heavily based on this webpage from Kaggle:
