@@ -18,7 +18,7 @@ Files are named with an image id. The train_labels.csv file provides the ground 
 
 Tumor tissue in the outer region of the patch does not influence the label. This outer region is provided to enable fully-convolutional models that do not use zero-padding, to ensure consistent behavior when applied to a whole-slide image.
 
-The dataset contains of 220025 images; XYZ of them are from normal patients, and XYZ contains tumor pixel. Each image is colored with size of 96 x 96 pixel.
+The dataset contains of 220025 images; XYZ of them are from normal patients, and XYZ contains tumor pixel. Each image is colored with size of 96x96 pixel.
 
 ## Libraries
 
