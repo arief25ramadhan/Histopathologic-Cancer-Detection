@@ -20,22 +20,28 @@ Tumor tissue in the outer region of the patch does not influence the label. This
 
 The dataset contains of 220025 images; 85% of them are from normal patients, and 15% contains tumor pixel. Each image is colored with size of 96x96 pixel.
 
+## GPU
+
+To train the network with a GPU,follow this tutorial:
+
+https://www.youtube.com/watch?v=tPq6NIboLSc
+
 ## Libraries
 
 The libraries required for this project are:
 
 * Numpy
 * Panda
-* Pytorch
-* Sagemaker
-* Boto3
+* Tensorflow
+* Keras
+* Scikit Learn
 
 ## Files
 
 The description of each file is:
 
-* model.ipynb: train the VGG16 model
-* cfg.py: configure pickle and model saving
+* data_processing.ipynb: explore dataset, crop images, split data into training and validation set
+* model.ipynb: build, train, plot, and test model
 
 
 ## Sources
@@ -44,11 +50,10 @@ Informations and links in this README.md file is heavily based on this webpage f
 
 https://www.kaggle.com/c/histopathologic-cancer-detection/
 
-The project's codes are built and modified from Greg Surma's repository: 
+The project's codes are built and modified from this repositories: 
 
 https://github.com/gsurma/histopathologic_cancer_detector
 
-Some of the code in model_v2.ipynb is heavily based on Seth Adam's Sound Source Localization repository:
+https://github.com/Terrance-Whitehurst/Keras-Histopathologic-Cancer-Detection
 
-https://github.com/seth814/Audio-Classification
- 
+https://github.com/darien-schettler/histopathologic-cancer-detection
