@@ -40,8 +40,8 @@ The libraries required for this project are:
 
 The description of each file is:
 
-* data_processing.ipynb: explore dataset, crop images, split data into training and validation set
-* model.ipynb: build, train, plot, and test model
+* 1_data_explore.ipynb: explore dataset, crop images, split data into training and validation set
+* 2_model.ipynb: build, train, plot, and test model
 
 
 ## Sources
