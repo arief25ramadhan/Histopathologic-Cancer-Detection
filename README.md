@@ -31,6 +31,7 @@ The libraries required for this project are:
 * Tensorflow
 * Keras
 * Scikit Learn
+* Matplotlib
 
 ## Files
 
